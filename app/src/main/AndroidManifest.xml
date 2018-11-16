@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.yise.guessaway.app">
+
+    <application>
+        <activity android:name="com.example.yise.guessaway.feature.PlayActivity"></activity>
+    </application>
+
+</manifest>
